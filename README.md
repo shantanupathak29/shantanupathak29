@@ -58,10 +58,3 @@ I am Shantanu, a Software Engineering student with a strong foundation in C, C++
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=shantanupathak29-hash&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
