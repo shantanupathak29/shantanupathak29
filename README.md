@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Software+Engineering+Student;React+%7C+Firebase+%7C+Python+%7C+C%2B%2B;Building+Practical+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Software+Engineering+Student;C+%7C+JavaScript+%7C+Python+%7C+C%2B%2B;Building+Practical+Solutions" alt="Typing SVG" />
 
 </div>
 
