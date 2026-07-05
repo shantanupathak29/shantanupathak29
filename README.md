@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1yeGNybjN2M2t5dDdjNXRwZWNtajJjdzVpdHF5eXkzYXNjYW91NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="100%"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:124170,50:215B63,100:67C090&height=220&section=header&text=Shantanu%20Pathak&fontSize=42&fontColor=AAFFC7&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Learner&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=67C090&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;C+%7C+C%2B%2B+%7C+Python+%7C+JavaScript;Frontend+%2B+Backend+%2B+Hardware;Building+Practical+Solutions" alt="Typing SVG" />
@@ -34,7 +32,9 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
 
 ## 💻 Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="65%" valign="middle">
 
 ![C](https://img.shields.io/badge/C-124170?style=for-the-badge&logo=c&logoColor=AAFFC7)
 ![C++](https://img.shields.io/badge/C%2B%2B-124170?style=for-the-badge&logo=cplusplus&logoColor=AAFFC7)
@@ -54,17 +54,22 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
 ![Canva](https://img.shields.io/badge/Canva-215B63?style=for-the-badge&logo=canva&logoColor=AAFFC7)
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-124170?style=for-the-badge&logo=adobelightroom&logoColor=AAFFC7)
 
-</div>
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM3NnZ3NHFseG4zc2hncnhkMnJxbWl0OWNtZWF1c2tpOHpuaDEybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5C8CevNMbpBqNqFjl/giphy.gif" width="300"/>
-</div>
+</td>
+<td width="35%" align="center" valign="middle">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM3NnZ3NHFseG4zc2hncnhkMnJxbWl0OWNtZWF1c2tpOHpuaDEybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5C8CevNMbpBqNqFjl/giphy.gif" width="220"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1yeGNybjN2M2t5dDdjNXRwZWNtajJjdzVpdHF5eXkzYXNjYW91NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="70%"/>
+
+<br/><br/>
 
 <img src="https://github-readme-stats.shion.dev/api?username=shantanupathak29&theme=transparent&hide_border=true&title_color=67C090&icon_color=AAFFC7&text_color=e6e6e6&ring_color=215B63&include_all_commits=false&count_private=false" width="49%"/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shantanupathak29&theme=transparent&hide_border=true&title_color=67C090&text_color=e6e6e6&langs_count=8&layout=compact" width="49%"/>
