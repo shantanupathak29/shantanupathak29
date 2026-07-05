@@ -1,69 +1,84 @@
-
-
 <div align="center">
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1yeGNybjN2M2t5dDdjNXRwZWNtajJjdzVpdHF5eXkzYXNjYW91NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:124170,50:215B63,100:67C090&height=220&section=header&text=Shantanu%20Pathak&fontSize=42&fontColor=AAFFC7&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Learner&descAlignY=58&descSize=18"/>
 
-# 💫 About Me:
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Software+Engineering+Student;C+%7C+JavaScript+%7C+Python+%7C+C%2B%2B;Building+Practical+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=67C090&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;C+%7C+C%2B%2B+%7C+Python+%7C+JavaScript;Frontend+%2B+Backend+%2B+Hardware;Building+Practical+Solutions" alt="Typing SVG" />
 
 </div>
 
-I am Shantanu, a Software Engineering student with a strong foundation in C, C++, Python, JavaScript, and SQL. I have experience in frontend development using React and backend development with Firebase, along with an interest in system design and hardware description languages such as VHDL. I enjoy building practical solutions, learning new technologies, and applying software and hardware concepts to real-world problems.
+<br/>
 
+## 💫 About Me
 
+I'm **Shantanu**, a Software Engineering student with a strong foundation in **C, C++, Python, JavaScript, and SQL**. I build on the frontend with **React** and on the backend with **Firebase**, and I have a growing interest in system design and hardware description languages like **VHDL**. I like turning ideas into practical, working solutions — whether that's software, hardware, or somewhere in between.
+
+- 🔭 Currently sharpening my skills in system design & data-driven projects
+- 🌱 Exploring hardware description languages (VHDL) alongside software dev
+- ⚡ Fun fact: I enjoy pairing code with a bit of Canva/Lightroom creativity
+
+<br/>
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pathakshantanu29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-pathak-1a532a2a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shantanupathak29@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-124170?style=for-the-badge&logo=instagram&logoColor=AAFFC7)](https://instagram.com/pathakshantanu29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-215B63?style=for-the-badge&logo=linkedin&logoColor=AAFFC7)](https://www.linkedin.com/in/shantanu-pathak-1a532a2a6/)
+[![Gmail](https://img.shields.io/badge/Email-67C090?style=for-the-badge&logo=gmail&logoColor=124170)](mailto:shantanupathak29@gmail.com)
 
 </div>
 
+<br/>
+
+## 💻 Tech Stack
+
 <div align="center">
 
-# 💻 Tech Stack:
-
-<div align="center">
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![C](https://img.shields.io/badge/C-124170?style=for-the-badge&logo=c&logoColor=AAFFC7)
+![C++](https://img.shields.io/badge/C%2B%2B-124170?style=for-the-badge&logo=cplusplus&logoColor=AAFFC7)
+![Python](https://img.shields.io/badge/Python-215B63?style=for-the-badge&logo=python&logoColor=AAFFC7)
+![JavaScript](https://img.shields.io/badge/JavaScript-215B63?style=for-the-badge&logo=javascript&logoColor=AAFFC7)
+![HTML5](https://img.shields.io/badge/HTML5-67C090?style=for-the-badge&logo=html5&logoColor=124170)
+![React](https://img.shields.io/badge/React-67C090?style=for-the-badge&logo=react&logoColor=124170)
+![Firebase](https://img.shields.io/badge/Firebase-AAFFC7?style=for-the-badge&logo=firebase&logoColor=124170)
+![MySQL](https://img.shields.io/badge/MySQL-124170?style=for-the-badge&logo=mysql&logoColor=AAFFC7)
+![Bash](https://img.shields.io/badge/Bash-215B63?style=for-the-badge&logo=gnubash&logoColor=AAFFC7)
+![Vercel](https://img.shields.io/badge/Vercel-67C090?style=for-the-badge&logo=vercel&logoColor=124170)
+![Netlify](https://img.shields.io/badge/Netlify-AAFFC7?style=for-the-badge&logo=netlify&logoColor=124170)
+![NumPy](https://img.shields.io/badge/NumPy-124170?style=for-the-badge&logo=numpy&logoColor=AAFFC7)
+![Pandas](https://img.shields.io/badge/Pandas-215B63?style=for-the-badge&logo=pandas&logoColor=AAFFC7)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-67C090?style=for-the-badge&logo=plotly&logoColor=124170)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-AAFFC7?style=for-the-badge&logo=scikitlearn&logoColor=124170)
+![Canva](https://img.shields.io/badge/Canva-215B63?style=for-the-badge&logo=canva&logoColor=AAFFC7)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-124170?style=for-the-badge&logo=adobelightroom&logoColor=AAFFC7)
 
 </div>
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM3NnZ3NHFseG4zc2hncnhkMnJxbWl0OWNtZWF1c2tpOHpuaDEybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5C8CevNMbpBqNqFjl/giphy.gif" width="300"/>
-</div>
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-# 📊 GitHub Stats:
+<img src="https://github-readme-stats.shion.dev/api?username=shantanupathak29&theme=transparent&hide_border=true&title_color=67C090&icon_color=AAFFC7&text_color=e6e6e6&ring_color=215B63&include_all_commits=false&count_private=false" width="49%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shantanupathak29&theme=transparent&hide_border=true&title_color=67C090&text_color=e6e6e6&langs_count=8&layout=compact" width="49%"/>
 
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=shantanupathak29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shantanupathak29&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shantanupathak29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://streak-stats.demolab.com/?user=shantanupathak29&theme=transparent&hide_border=true&ring=215B63&fire=67C090&currStreakLabel=AAFFC7&sideLabels=e6e6e6&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=8a8a8a" width="70%"/>
 
 </div>
-
-<div align="center">
 
 ## 📈 Contribution Graph
 
+<div align="center">
 
-
-[![Shantanu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shantanupathak29&theme=github-compact)](https://github.com/shantanupathak29-hash)
+[![Shantanu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shantanupathak29&bg_color=00000000&color=67C090&line=215B63&point=AAFFC7&area=true&hide_border=true)](https://github.com/shantanupathak29-hash)
 
 </div>
 
----
+<br/>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1a1aff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:67C090,50:215B63,100:124170&height=120&section=footer"/>
