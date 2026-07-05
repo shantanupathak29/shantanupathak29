@@ -14,6 +14,8 @@
 
 <br/>
 
+---
+
 ## Table of Contents
 
 - [About Me](#about-me)
@@ -24,6 +26,8 @@
 - [2026 Goals](#2026-goals)
 
 <br/>
+
+---
 
 ## About Me
 
@@ -39,6 +43,8 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
 [Back to top](#top)
 
 </div>
+
+---
 
 ## Connect With Me
 
@@ -56,13 +62,13 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
 
 </div>
 
+---
+
 ## Tech Stack
 
-<table>
-<tr>
-<td width="65%" valign="middle">
+<img align="right" width="220" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM3NnZ3NHFseG4zc2hncnhkMnJxbWl0OWNtZWF1c2tpOHpuaDEybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5C8CevNMbpBqNqFjl/giphy.gif"/>
 
-<details open>
+<details>
 <summary><b>Languages & Core</b></summary>
 <br/>
 
@@ -74,7 +80,7 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
 
 </details>
 
-<details open>
+<details>
 <summary><b>Frontend & Backend</b></summary>
 <br/>
 
@@ -85,7 +91,7 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
 
 </details>
 
-<details open>
+<details>
 <summary><b>Deployment</b></summary>
 <br/>
 
@@ -94,7 +100,7 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
 
 </details>
 
-<details open>
+<details>
 <summary><b>Data & ML</b></summary>
 <br/>
 
@@ -105,7 +111,7 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
 
 </details>
 
-<details open>
+<details>
 <summary><b>Design</b></summary>
 <br/>
 
@@ -114,18 +120,15 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
 
 </details>
 
-</td>
-<td width="35%" align="center" valign="middle">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM3NnZ3NHFseG4zc2hncnhkMnJxbWl0OWNtZWF1c2tpOHpuaDEybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5C8CevNMbpBqNqFjl/giphy.gif" width="220"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <div align="right">
 
 [Back to top](#top)
 
 </div>
+
+---
 
 ## GitHub Stats
 
@@ -148,6 +151,8 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
 
 </div>
 
+---
+
 ## Contribution Graph
 
 <div align="center">
@@ -161,6 +166,8 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
 [Back to top](#top)
 
 </div>
+
+---
 
 ## 2026 Goals
 
