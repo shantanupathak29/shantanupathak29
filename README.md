@@ -12,9 +12,9 @@
 
 I'm **Shantanu**, a Software Engineering student with a strong foundation in **C, C++, Python, JavaScript, and SQL**. I build on the frontend with **React** and on the backend with **Firebase**, and I have a growing interest in system design and hardware description languages like **VHDL**. I like turning ideas into practical, working solutions — whether that's software, hardware, or somewhere in between.
 
-- 🔭 Currently sharpening my skills in system design & data-driven projects
-- 🌱 Exploring hardware description languages (VHDL) alongside software dev
-- ⚡ Fun fact: I enjoy pairing code with a bit of Canva/Lightroom creativity
+-  Currently sharpening my skills in system design & data-driven projects
+-  Exploring hardware description languages (VHDL) alongside software dev
+-  Fun fact: I enjoy pairing code with a bit of Canva/Lightroom creativity
 
 <br/>
 
