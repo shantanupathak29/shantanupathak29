@@ -1,9 +1,4 @@
 <div align="center">
-<div align="center">
-
-<img src="./picture.svg" alt="Animated terminal snapshot" width="50%"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:124170,50:215B63,100:67C090&height=220&section=header&text=Shantanu%20Pathak&fontSize=42&fontColor=AAFFC7&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Learner&descAlignY=58&descSize=18"/>
 
@@ -13,6 +8,15 @@
 
 <br/>
 
+<table>
+<tr>
+<td width="45%" valign="middle" align="center">
+
+<img src="./picture.svg" alt="Animated terminal snapshot" width="100%"/>
+
+</td>
+<td width="55%" valign="middle">
+
 ## 💫 About Me
 
 I'm **Shantanu**, a Software Engineering student with a strong foundation in **C, C++, Python, JavaScript, and SQL**. I build on the frontend with **React** and on the backend with **Firebase**, and I have a growing interest in system design and hardware description languages like **VHDL**. I like turning ideas into practical, working solutions — whether that's software, hardware, or somewhere in between.
@@ -21,9 +25,9 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
 -  Exploring hardware description languages (VHDL) alongside software dev
 -  Fun fact: I enjoy pairing code with a bit of Canva/Lightroom creativity
 
-<br/>
-
-
+</td>
+</tr>
+</table>
 
 <br/>
 
