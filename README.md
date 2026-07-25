@@ -1,4 +1,9 @@
 <div align="center">
+<div align="center">
+
+<img src="./picture.svg" alt="Animated terminal snapshot" width="50%"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:124170,50:215B63,100:67C090&height=220&section=header&text=Shantanu%20Pathak&fontSize=42&fontColor=AAFFC7&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Learner&descAlignY=58&descSize=18"/>
 
@@ -15,6 +20,10 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
 -  Currently sharpening my skills in system design & data-driven projects
 -  Exploring hardware description languages (VHDL) alongside software dev
 -  Fun fact: I enjoy pairing code with a bit of Canva/Lightroom creativity
+
+<br/>
+
+
 
 <br/>
 
