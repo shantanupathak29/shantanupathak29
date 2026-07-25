@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:124170,50:215B63,100:67C090&height=220&section=header&text=Shantanu%20Pathak&fontSize=42&fontColor=AAFFC7&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Learner&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=67C090&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;C+%7C+C%2B%2B+%7C+Python+%7C+JavaScript;Frontend+%2B+Backend+%2B+Hardware;Building+Practical+Solutions" alt="Typing SVG" />
-
 </div>
 
 <br/>
@@ -31,6 +29,7 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=67C090&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;C+%7C+C%2B%2B+%7C+Python+%7C+JavaScript;Frontend+%2B+Backend+%2B+Hardware;Building+Practical+Solutions" alt="Typing SVG" />
 ## 🌐 Connect With Me
 
 <div align="center">
