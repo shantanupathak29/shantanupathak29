@@ -8,12 +8,12 @@
 
 <table>
 <tr>
-<td width="45%" valign="middle" align="center">
+<td width="40%" valign="middle" align="center">
 
 <img src="./picture.svg" alt="Animated terminal snapshot" width="100%"/>
 
 </td>
-<td width="55%" valign="middle">
+<td width="60%" valign="middle">
 
 ## 💫 About Me
 
@@ -29,7 +29,10 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
 
 <br/>
 
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=67C090&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;C+%7C+C%2B%2B+%7C+Python+%7C+JavaScript;Frontend+%2B+Backend+%2B+Hardware;Building+Practical+Solutions" alt="Typing SVG" />
+</div>
+
 ## 🌐 Connect With Me
 
 <div align="center">
