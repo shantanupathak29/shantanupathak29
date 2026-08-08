@@ -107,5 +107,4 @@ I'm **Shantanu**, a Software Engineering student with a strong foundation in **C
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FC5185,50:3FC1C9,100:364F6B&height=120&section=footer"/>
